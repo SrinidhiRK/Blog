@@ -1,5 +1,5 @@
 <footer>
-<h4 class="fixed-bottom text-center">&copy; reserved by srinidhi <?php echo date("Y"); ?></h4>
+<h4 class="fixed-bottom text-center">&copy; reserved by L2C<?php echo date("Y"); ?></h4>
 </footer>
 
 
