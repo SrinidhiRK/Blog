@@ -19,24 +19,26 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="./explo/img2.jpg">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+      <img src="./explo/pic1.png">
+      <div class="carousel-caption d-none d-sm-block">
+        <h5> <p style="font-size:50px;">EXPLORING THE AMAZING COUNTRY</p></h5>
+        
+
+        <p style= "color:white;">  <em>    The main reason why India is famous for tourism means all type of tourist destinations in one place. India is the right place for wild safaris, desert safaris, nature seeking places, honeymoon spot, adventurous activities, spiritual places, and historical places of India. </em>  </p> 
       </div>
     </div>
     <div class="carousel-item">
-      <img src="./explo/img3.jpg">
+      <img src="./explo/pic2.png">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Second slide label</h5>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <h5>  <p style="font-size:50px;"> LADAKH </p></h5>
+        <p> <em> Ladakh is most famous for breathtaking landscapes, the crystal clear skies, the highest mountain passes, thrilling adventure activities, Buddhist Monasteries and festivals. </em>  </p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="./explo/img5.jpg">
+      <img src="./explo/pic3.png">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Third slide label</h5>
-        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+        <h5>  <p style="font-size:50px;">VARANASI </p></h5>
+        <p> <em> Varanasi is famous for the bathing ghats along the banks of river Ganga. Pilgrims throng these ghats to take a holy dip to wash themselves of their sins.</em> </p>
       </div>
     </div>
   </div>

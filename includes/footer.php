@@ -1,6 +1,7 @@
 <footer>
-<h4 class="fixed-bottom text-center">&copy; reserved by L2C<?php echo date("Y"); ?></h4>
+<h5 class="fixed-bottom text-center">&copy; reserved by L2C <?php echo date("Y"); ?></h5>
 </footer>
+
 
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
